@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_documentation element="needed_from" label="Needed from" language="en" table="x_305287_marketing_equipment_request">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>needed_from</element>

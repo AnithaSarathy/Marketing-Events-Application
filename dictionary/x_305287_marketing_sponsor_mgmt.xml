@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
     <element label="Sponsor Mgmt" max_length="40" name="x_305287_marketing_sponsor_mgmt" type="collection">
         <element display="true" label="Marketing Event" max_length="32" name="marketing_event" reference="x_305287_marketing_marketing_event" type="reference"/>
         <element label="Sponsor" max_length="40" name="sponsor" type="string"/>
